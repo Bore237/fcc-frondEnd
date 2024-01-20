@@ -1,5 +1,5 @@
 {
-  "homepage": "https://borel237.github.io/clock-react",
+  "homepage": "https://bore237.github.io/fcc-frondEnd/",
   "name": "clock",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,7 @@
     "@iconify/react": "^4.1.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
+    "@testing-library/user-event": "^13.5.0",   
     "howler": "^2.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
