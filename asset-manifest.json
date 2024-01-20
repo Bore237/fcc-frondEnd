@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/fcc-frondEnd/static/css/main.6ae60007.css",
-    "main.js": "/fcc-frondEnd/static/js/main.ec65686b.js",
-    "static/js/787.b972bb5b.chunk.js": "/fcc-frondEnd/static/js/787.b972bb5b.chunk.js",
-    "index.html": "/fcc-frondEnd/index.html",
-    "main.6ae60007.css.map": "/fcc-frondEnd/static/css/main.6ae60007.css.map",
-    "main.ec65686b.js.map": "/fcc-frondEnd/static/js/main.ec65686b.js.map",
-    "787.b972bb5b.chunk.js.map": "/fcc-frondEnd/static/js/787.b972bb5b.chunk.js.map"
+    "main.css": "/fcc-frondEnd/markdown/static/css/main.f52d8edd.css",
+    "main.js": "/fcc-frondEnd/markdown/static/js/main.8f97180a.js",
+    "index.html": "/fcc-frondEnd/markdown/index.html",
+    "main.f52d8edd.css.map": "/fcc-frondEnd/markdown/static/css/main.f52d8edd.css.map",
+    "main.8f97180a.js.map": "/fcc-frondEnd/markdown/static/js/main.8f97180a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ae60007.css",
-    "static/js/main.ec65686b.js"
+    "static/css/main.f52d8edd.css",
+    "static/js/main.8f97180a.js"
   ]
 }
